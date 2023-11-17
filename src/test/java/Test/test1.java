@@ -8,6 +8,7 @@ public class test1 {
 		System.out.println("New change"); 
 		
 		System.out.println("Branch creation");
+		System.out.println("Branch creation commit");
 	}
 
 }
